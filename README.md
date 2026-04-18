@@ -1,5 +1,7 @@
 # gw-kn-multimodal-preview
 
+[中文](README.md) | [English](README_EN.md)
+
 `gw-kn-multimodal` 是一个面向千新星（kilonova, KN）识别的多模态研究仓库，覆盖了从模拟数据生成、HDF5 数据集构建，到 GW+光学联合训练、optical-only 基线训练与评估的完整流程。
 
 当前仓库只提供说明预览，不包含源代码，完整源代码将在适时公开。
